@@ -2,7 +2,7 @@
 
 Builder mindset. I like taking ideas from zero to shipped.
 
-Right now I am building a reader app that helps people read faster and understand more with AI support. I care about shipping something people actually use, then iterating hard.
+Right now I am building a reader app that helps people read faster and understand more with AI support. I care about making something people want, then iterating hard.
 
 ## What I Build
 - AI powered features that feel simple to the user
@@ -20,15 +20,15 @@ Right now I am building a reader app that helps people read faster and understan
 - CS student at George Mason University: focused on building practical systems while learning the theory
 
 ## Current Focus
-- Ship the reader app to real users
-- Go deeper into agents, retrieval, and evaluation
-- Keep sharpening product instincts and technical depth
+- Ship the reader app to real users and iterate fast
+- Build a marketing agent that can plan, write, and run campaigns end to end
+- Turn agent workflows into an AI native agency experiment
 
 ## Stack I Actually Use
-Python · SQL · Java · TypeScript · PyTorch · TensorFlow · FastAPI · Django · AWS · S3 · Athena · Postgres · Redis · Docker · Git
+Python · SQL · Java · TypeScript · PyTorch · TensorFlow · FastAPI · Django · AWS · Postgres · Redis · Docker · Git
 
 ## Find Me
 GitHub: https://github.com/tejdeeppathipati  
-LinkedIn: add link  
-Site: add link  
-Email: add email
+LinkedIn: https://www.linkedin.com/in/tejdeeppathipati/
+Website: https://tejdeeppathipati.com/  
+Email: tpathipa9@gmail.com
