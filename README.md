@@ -5,7 +5,7 @@ Builder mindset. I like taking ideas from zero to shipped.
 Right now I am building a reader app that helps people read faster and understand more with AI support. I care about making something people want, then iterating hard.
 
 ## What I Build
-- AI powered features that feel simple to the user
+- AI/ML Systems
 - Backend systems that stay reliable when data gets messy
 - Agents that take real actions, not just chat
 
@@ -16,8 +16,8 @@ Right now I am building a reader app that helps people read faster and understan
 
 ## Experience
 - Data Engineering Intern at Wi-Tronix: image data workflows, dataset curation, and metadata reliability
-- Backend Developer Intern: building and maintaining APIs and product features
-- CS student at George Mason University: focused on building practical systems while learning the theory
+- Software Engineer Intern: building and maintaining APIs and product features
+- CS student at George Mason University
 
 ## Current Focus
 - Ship the reader app to real users and iterate fast
